@@ -37,7 +37,6 @@ Never upload your real API key to GitHub.
 python -m streamlit run app.py
 
 📄 CSV Format
-
 The current electricity analyzer expects these columns:
 
 - "building"
