@@ -30,8 +30,6 @@ python -m pip install -r requirements.txt
 
 Set your "GEMINI_API_KEY" environment variable locally, or configure it using your deployment platform's secrets settings.
 
-Never upload your real API key to GitHub.
-
 3. Run the application
 
 python -m streamlit run app.py
@@ -44,10 +42,6 @@ The current electricity analyzer expects these columns:
 - "electricity_kwh"
 
 Upload a CSV containing these columns to analyze electricity consumption.
-
-🔐 Security
-
-Do not commit API keys, passwords, or private datasets.
 
 📌 Project Status
 
