@@ -1,0 +1,4 @@
+streamlit>=1.52.0
+google-genai
+pandas
+plotly
